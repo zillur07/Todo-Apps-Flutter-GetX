@@ -30,4 +30,23 @@ The Todo app is a Flutter-based task management application that utilizes GetX f
   - Mark to-do items as completed by clicking on the checkbox next to the item.
   - View progress reports by clicking on the "Reports" button.
 
+### Snapshots
+
+#### Home Page
+<img src="C:\myWork\interview\todo_app\flutter_01.png" width="250">
+
+#### New Task Page
+<img src="C:\myWork\interview\todo_app\flutter_02.png" width="250">
+
+#### Delete Task 
+<img src="C:\myWork\interview\todo_app\flutter_03.png" width="250">
+
+#### Add Task 
+<img src="C:\myWork\interview\todo_app\flutter_04.png" width="250">
+
+#### Task Details
+<img src="C:\myWork\interview\todo_app\flutter_05.png" width="250">
+
+#### Task Report Page
+<img src="C:\myWork\interview\todo_app\flutter_06.png" width="250">
 
