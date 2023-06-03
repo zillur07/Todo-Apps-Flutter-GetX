@@ -32,21 +32,21 @@ The Todo app is a Flutter-based task management application that utilizes GetX f
 
 ### Snapshots
 
-#### Home Page
+## Home Page
 ![flutter_01](https://github.com/zillur07/Todo-Apps-Flutter-GetX/assets/87537602/5b847822-e1c0-46c1-900a-1b5534cd6062)
 
-#### New Task Page
+## New Task Page
 ![flutter_02](https://github.com/zillur07/Todo-Apps-Flutter-GetX/assets/87537602/55017a09-d1bd-4609-9247-f0225ae9de3a)
 
-#### Delete Task 
+## Delete Task 
 ![flutter_03](https://github.com/zillur07/Todo-Apps-Flutter-GetX/assets/87537602/0d040a52-7ec3-4895-8164-de2f1d151f56)
 
-#### Add Task 
+## Add Task 
 ![flutter_04](https://github.com/zillur07/Todo-Apps-Flutter-GetX/assets/87537602/cbeb1b3e-c9eb-4fc7-ad35-c4db61674c57)
 
-#### Task Details
+## Task Details
 ![flutter_05](https://github.com/zillur07/Todo-Apps-Flutter-GetX/assets/87537602/eb010090-cf5c-4d32-a981-cd0196a7ae4c)
 
-#### Task Report Page
+## Task Report Page
 ![flutter_06](https://github.com/zillur07/Todo-Apps-Flutter-GetX/assets/87537602/8311169c-1b79-4c38-b176-0ba4084e559a)
 
