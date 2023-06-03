@@ -33,20 +33,20 @@ The Todo app is a Flutter-based task management application that utilizes GetX f
 ### Snapshots
 
 #### Home Page
-<img src="C:\myWork\interview\todo_app\flutter_01.png" width="250">
+C:\myWork\interview\todo_app\flutter_01.png
 
 #### New Task Page
-<img src="C:\myWork\interview\todo_app\flutter_02.png" width="250">
+C:\myWork\interview\todo_app\flutter_02.png
 
 #### Delete Task 
-<img src="C:\myWork\interview\todo_app\flutter_03.png" width="250">
+C:\myWork\interview\todo_app\flutter_03.png
 
 #### Add Task 
-<img src="C:\myWork\interview\todo_app\flutter_04.png" width="250">
+C:\myWork\interview\todo_app\flutter_04.png
 
 #### Task Details
-<img src="C:\myWork\interview\todo_app\flutter_05.png" width="250">
+C:\myWork\interview\todo_app\flutter_05.png
 
 #### Task Report Page
-<img src="C:\myWork\interview\todo_app\flutter_06.png" width="250">
+C:\myWork\interview\todo_app\flutter_06.png
 
